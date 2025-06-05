@@ -16,8 +16,8 @@
 ##  Something
 
 ![Anti-996](https://img.shields.io/badge/anti-996-black)
-![:rainbow_flag:](https://img.shields.io/badge/--blueviolet)
-![:transgender_flag:](https://img.shields.io/badge/--brightgreen)
+![LGBTQ+ Friendly](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)
+![Trans Rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![KernelSU](https://img.shields.io/badge/KernelSU-222222?logo=linux&logoColor=white)
@@ -39,9 +39,9 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣼⣿⣿⠌⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⡿⢛⠻⣿⣿⣿⣿⠿⢛⣩⣥⣶⣶⣶⣦⣬⣭⣓⢸⣿⡟⠸⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⡿⢱⣿⣷⣬⣙⣩⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣶⣦⡹⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣇⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣭⣥⣄⡀⠀⠀⠀⠉⠉⠛⣿⣿
-⣿⣿⣿⣿⡿⠆⣙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠆⣠⣐⢻⣿⣦⢹⣿
-⣿⣿⡿⣩⣶⣿⣿⣿⣿⣿⣿⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢰⣏⣃⣘⠻⣽⢸⣿
+⣿⣿⣿⣿⣇⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣭⣥⣄⡀⠀⠀⠀⠉⠉⠛⣿⣿
+⣿⣿⣿⣿⡿⠆⣙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠆⣠⣐⢻⣿⣦⢹⣿
+⣿⣿⡿⣩⣶⣿⣿⣿⣿⣿⣿⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢰⣏⣃⣘⠻⣽⢸⣿
 ⣿⡟⣰⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⣿⣿⣿⣿⣷⠹⣿⣿⣿⣿⣿⣿⣿⣿⣶⣬⡐⢿⡼⡭⠯⢡⡇⣸⣿
 ⣿⠇⣿⡿⢋⣿⣿⣿⣿⡟⣸⡘⢿⣿⣿⣿⣿⣿⢛⣝⢠⡙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣱⢆⢹⠃⠿⣿
 ⣿⣧⣭⡆⣼⣿⣿⣿⣿⢰⣿⣐⣀⠪⣿⣿⣿⣿⣬⢂⠾⠟⠦⠙⠿⣿⣿⣿⣿⣿⡿⠟⣡⢞⠑⣋⣼⡿⠇⣾
