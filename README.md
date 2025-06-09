@@ -20,7 +20,7 @@
 ![Trans Rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-![KernelSU](https://img.shields.io/badge/KernelSU-222222?logo=linux&logoColor=white)
+<img src="https://kernelsu.org/logo.png" alt="KernelSU Logo" width="25" height="25">
 
 ---
 
