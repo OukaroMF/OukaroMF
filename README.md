@@ -22,6 +22,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 <img src="https://kernelsu.org/logo.png" alt="KernelSU Logo" width="20" height="20">
 ![KernelSU](https://img.shields.io/badge/KernelSU-000000?logo=kernel&logoColor=white)
+<img src="https://sukisu.org/img/logo.png" alt="SukiSU Logo" width="20" height="20">
 ![SukiSU](https://img.shields.io/badge/SukiSU-000000?logo=kernel&logoColor=white)
 
 ---
