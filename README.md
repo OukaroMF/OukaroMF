@@ -13,7 +13,7 @@
 
 ---
 
-##  Something
+##  Something (My Collections&Interests)
 
 ![Anti-996](https://img.shields.io/badge/anti-996-black)
 ![LGBTQ+ Friendly](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982)
